@@ -34,7 +34,7 @@ mobile (iphone x)        |  desktop 1440
 
 ### Links
 
-- Live Site URL: [Add live site URL here](ttttristan.github.io/stats-preview-card-component-main)
+- Live Site URL: [Live Site](ttttristan.github.io/stats-preview-card-component-main)
 
 ## My process
 
