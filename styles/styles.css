@@ -168,19 +168,17 @@ main {
   }
 
   .hero-container {
-		border-radius: 0 8px 8px 0;
-
+    border-radius: 0 8px 8px 0;
   }
 
   .hero-container::before {
-		border-radius: 0 8px 8px 0;
-
+    border-radius: 0 8px 8px 0;
   }
 
   .hero-image {
-		height: 100%;
-		border-radius: 0 8px 8px 0;
-		background-size: cover;
+    height: 100%;
+    border-radius: 0 8px 8px 0;
+    background-size: cover;
   }
 
   .card-elements-2 {
@@ -188,44 +186,44 @@ main {
     height: 100%;
   }
 
-	.summary-container {
-		padding: 17% 12% 0 12%;
-	}
-	.summary-title {
-		font-size: 1.09em;
-		text-align: left;
-	}
+  .summary-container {
+    padding: 17% 12% 0 12%;
+  }
+  .summary-title {
+    font-size: 1.09em;
+    text-align: left;
+  }
 
-	.summary-title br{
-		display: none;
-	}
+  .summary-title br {
+    display: none;
+  }
 
-	.summary-copy {
-		text-align: left;
-	}
+  .summary-copy {
+    text-align: left;
+  }
 
-	.summary-copy br {
-		display: none;
-	}
+  .summary-copy br {
+    display: none;
+  }
 
-	.stat-container {
-		padding: 12%;
-	}
-	.stat-element-container {
-		display: flex;
-		flex-direction: row;
-		justify-content: flex-start;
-		align-items: flex-end;
-		width: 100%;
-	}
+  .stat-container {
+    padding: 12%;
+  }
+  .stat-element-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 100%;
+  }
 
-	.stat-element {
-		margin-left: 3.5em;
-		align-items: flex-start;
-	}
+  .stat-element {
+    margin-left: 3.5em;
+    align-items: flex-start;
+  }
 
-	.stat-element:first-child{
-		margin-top: 0;
-		margin-left: 0;
-	}
+  .stat-element:first-child {
+    margin-top: 0;
+    margin-left: 0;
+  }
 }
